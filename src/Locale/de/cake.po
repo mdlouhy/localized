@@ -54,7 +54,7 @@ msgstr "Seite nicht gefunden"
 
 #: Error/ExceptionRenderer.php:231
 msgid "An Internal Error Has Occurred."
-msgstr "Ein interner Fehler ist aufgetreten"
+msgstr "Ein unbekannter Fehler ist aufgetreten"
 
 #: Model/Validator/CakeValidationSet.php:287
 msgid "This field cannot be left blank"
@@ -247,11 +247,11 @@ msgstr "leer"
 #: View/Helper/FormHelper.php:1796
 #: View/Scaffolds/form.ctp:23
 msgid "Submit"
-msgstr "Weiter"
+msgstr "Speichern"
 
 #: View/Helper/FormHelper.php:2704
 msgid "January"
-msgstr "Januar"
+msgstr "Jänner"
 
 #: View/Helper/FormHelper.php:2705
 msgid "February"
